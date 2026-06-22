@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDl5czJ4ZHJxNTE5Mm5leXl2OGdma3I1dXpwcXB4djVnc2cxdDc1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LZ2WRdQu8udNPSZxbg/giphy.gif" alt="Cool GIF" />
+</p>
+
 # Systems Engineering & Market Architecture 📊⚡
 
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Solving+real-world+problems...;Analyzing+market+patterns...;Architecting+IoT+and+hardware+systems..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Solving+real-world+problems...;Analyzing+market+patterns..." />
   </a>
 </p>
 
